@@ -44,9 +44,11 @@ If you are looking for a structured theoretical foundation first, I recommend st
 
 ## Modules
 
+[From .NET Dev to AI Engineer — Why I Started This Series](https://vvidman.github.io/posts/dotnet-ai-stack-00.html)
+
 | # | Module | Key Technologies | Branch | Blog |
 |---|--------|-----------------|--------|------|
-| 1 | The .NET AI Stack | M.E.AI · IChatClient · LlamaSharp · SK Kernel | [`modul-01`](../../tree/modul-01) | — |
+| 1 | The .NET AI Stack | M.E.AI · IChatClient · LlamaSharp · SK Kernel | [`modul-01`](../../tree/modul-01) | [Building the .NET AI Stack from First Principles](https://vvidman.github.io/posts/dotnet-ai-stack-01.html) |
 | 2 | Tool Calling & Function Calling | KernelFunction · Auto/Manual tool loop | [`modul-02`](../../tree/modul-02) | — |
 | 3 | Memory Architecture (STM/LTM) | ChatHistory · Vector DB · Embeddings | [`modul-03`](../../tree/modul-03) | — |
 | 4 | RAG → Agentic RAG | Passive pipeline → Active retrieval · Qdrant | [`modul-04`](../../tree/modul-04) | — |
