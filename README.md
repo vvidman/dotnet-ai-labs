@@ -1,5 +1,10 @@
 # dotnet-ai-labs
 
+## This repo will not be continued
+This repo will not be continued. I will continue the AI ​​development lab projects on non-obsolete technology, since the Microsoft Agentic Framework has been released, so I will continue based on that. 
+You can follow me in my next repo:
+[MAF-LAB](https://github.com/vvidman/MAF-LAB)
+
 **From .NET Dev to AI Engineer — Step by Step**
 
 A hands-on companion repository to the Udemy course  
